@@ -5,7 +5,7 @@ counter = input
 while counter >0
 puts "#{counter} SECOND(S)!"
 counter -= 1 
-if counter = 0 
+if counter == 0 
   puts "HAPPY NEW YEAR!"
 end
 end
