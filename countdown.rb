@@ -11,7 +11,7 @@ end
 end
 #puts "HAPPY NEW YEAR!"
 end
-puts "H"
+puts "HAPPY NEW YEAR!"
 
 #def countdown_with_sleep(input)
 #counter = input
