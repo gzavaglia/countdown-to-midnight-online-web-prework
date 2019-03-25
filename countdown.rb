@@ -8,6 +8,7 @@ counter -= 1
 if counter = 0 
   puts "HAPPY NEW YEAR!"
 end
+end
 #puts "HAPPY NEW YEAR!"
 end
 
