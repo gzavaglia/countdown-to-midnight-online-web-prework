@@ -5,11 +5,11 @@ counter = input
 while counter >0
 puts "#{counter} SECOND(S)!"
 counter -= 1 
-#if counter == 0 
- # puts "HAPPY NEW YEAR!"
-#end
+if counter == 0 
+ return "HAPPY NEW YEAR!"
 end
-returns"HAPPY NEW YEAR!"
+end
+#returns"HAPPY NEW YEAR!"
 end
 
 #def countdown_with_sleep(input)
