@@ -10,4 +10,5 @@ puts "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep(input)
-  
+counter = input
+while counter > =
